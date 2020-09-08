@@ -1,0 +1,12 @@
+ingin lihat history	
+1. blame->history
+2. mau tambahin komen di code, klik listnya 
+3. liat perubahan split
+4. commit kasi komen 1 file dibawahnya
+
+
+unutk pull dari branch 
+1. git fetch 
+2. git pull
+
+pelajari merge local
